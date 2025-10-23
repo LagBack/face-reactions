@@ -1,4 +1,4 @@
-# Emoji Reactor
+# Face Reactions
 
 A Python project that detects facial expressions and hand gestures in real-time from your webcam and displays corresponding emojis in a separate window.  
 
